@@ -1,16 +1,20 @@
 var exrx = {
-	"link":"http://www.exrx.net/WeightExercises/Sternocleidomastoid/CBNeckFlx.html",
-	"name":"Cable Neck Flexion",
-	"body part":"Neck",
-	"target":"Sternocleidomastoid",
-	"synergists":"",
-	"stabilizers":["Rectus Abdominis", "Obliques"],
-	"equipment":1,
-	"mechanics":"Isolated",
-	"force":"pull",
-	"gif":"http://www.exrx.net/AnimatedEx/Sternocleidomastoid/CBNeckFlexion.gif",
-	"video":"https://i.vimeocdn.com/video/559267730.webp",
-	"vimeo":"559267730"
+	"1":{
+		"id":1,
+		"link":"http://www.exrx.net/WeightExercises/Sternocleidomastoid/CBNeckFlx.html",
+		"name":"Cable Neck Flexion",
+		"body part":"Neck",
+		"target":"Sternocleidomastoid",
+		"synergists":"",
+		"stabilizers":["Rectus Abdominis", "Obliques"],
+		"equipment":1,
+		"goal":1,
+		"mechanics":"Isolated",
+		"force":"pull",
+		"gif":"http://www.exrx.net/AnimatedEx/Sternocleidomastoid/CBNeckFlexion.gif",
+		"video":"https://i.vimeocdn.com/video/559267730.webp",
+		"vimeo":"559267730",
+	}
 };
 
 var equipment = {
@@ -18,4 +22,11 @@ var equipment = {
 	"2":"Dumbbell",
 	"3":"Barbell",
 	"4":"EZ Bar"
-}
+};
+
+var goals = {
+	"1":"sets and reps",
+	"2":"reps",
+	"3":"time",
+	"4":"distance"
+};
