@@ -16,17 +16,3 @@ var exrx = {
 		"vimeo":"559267730",
 	}
 };
-
-var equipment = {
-	"1":"Cable Machine",
-	"2":"Dumbbell",
-	"3":"Barbell",
-	"4":"EZ Bar"
-};
-
-var goals = {
-	"1":"sets and reps",
-	"2":"reps",
-	"3":"time",
-	"4":"distance"
-};
