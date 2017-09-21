@@ -60,7 +60,7 @@ var log = {
 	]
 };
 
-var userPrefs = {
+var userDefualts = {
 	"units":1,
 	"reps":8,
 	"sets":3,
