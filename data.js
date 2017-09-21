@@ -12,32 +12,56 @@ var units = {
 	11:"km"
 }
 
-var muscles = [
-	{
+var muscles = {
+	1:{
 		"id":1,
 		"sciName":"Sternocleidomastoid",
 		"part":1
+	},
+	2:{
+		"id":2,
+		"sciName":"Rectus Abdominis",
+		"part":2
+	},
+	3:{
+		"id":3,
+		"sciName":"Obliques",
+		"part":2
 	}
-];
+};
 
-var bodyParts = [
-	{
-		"id":1,
-		"name":"Neck"
-	}
-];
+var bodyParts = {
+	1:"Neck",
+	2:"Abs"
+};
+
+var userPrefs = {
+	"units":1,
+	"reps":8,
+	"sets":3,
+	"rest":60
+};
 
 var equipment = {
-	"1":"Cable Machine",
-	"2":"Dumbbell",
-	"3":"Barbell",
-	"4":"EZ Bar"
+	1:"Cable Machine",
+	2:"Dumbbell",
+	3:"Barbell",
+	4:"EZ Bar"
 };
 
 var goals = {
-	"1":"sets and reps",
-	"2":"reps",
-	"3":"max time",
-	"4":"min time",
-	"5":"distance"
+	1:"sets and reps",
+	2:"reps",
+	3:"max time",
+	4:"min time",
+	5:"distance"
 };
+
+var mechanics = {
+	1:"Isolated"
+}
+
+var force = {
+	1:"Pull",
+	2:"Push"
+}
