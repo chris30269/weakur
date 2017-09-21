@@ -3,7 +3,7 @@ var exrx = {
 		"id":1,
 		"link":"http://www.exrx.net/WeightExercises/Sternocleidomastoid/CBNeckFlx.html",
 		"name":"Cable Neck Flexion",
-		"body part":"Neck",
+		"body part":"1",
 		"target":"Sternocleidomastoid",
 		"synergists":"",
 		"stabilizers":["Rectus Abdominis", "Obliques"],
