@@ -160,10 +160,3 @@ var log = {
 		}
 	]
 };
-
-var userDefualts = {
-	"units":1,
-	"reps":8,
-	"sets":3,
-	"rest":60
-};
