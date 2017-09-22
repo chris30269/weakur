@@ -49,7 +49,7 @@ var bodyParts = {
 	6:"Glutes",
 	7:"Calves",
 	8:"Pelvic Floor",
-	9:"Chest",
+	9:"Chest"
 };
 
 var userPrefs = {
