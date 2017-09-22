@@ -28,11 +28,28 @@ var muscles = {
 		"sciName":"Obliques",
 		"part":2
 	}
+	4:{
+		"id":4,
+		"sciName":"Trapezius",
+		"part":1
+	}
+	5:{
+		"id":5,
+		"sciName":"Levator Scapulae",
+		"part":3
+	}
 };
 
 var bodyParts = {
 	1:"Neck",
-	2:"Abs"
+	2:"Abs",
+	3:"Back",
+	4:"Arms",
+	5:"Legs",
+	6:"Glutes",
+	7:"Calves",
+	8:"Pelvic Floor",
+	9:"Chest"
 };
 
 var userPrefs = {
@@ -58,7 +75,8 @@ var goals = {
 };
 
 var mechanics = {
-	1:"Isolated"
+	1:"Isolated",
+	2:"Compound"
 }
 
 var force = {
