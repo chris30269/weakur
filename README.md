@@ -1,2 +1,0 @@
-# weakur
-ur weakur
